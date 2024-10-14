@@ -22,6 +22,3 @@ version: v0.2.3-rc4
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
 appVersion: "1.16.0"
-
-maintainers:
-  - name: iluvatar
