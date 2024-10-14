@@ -23,5 +23,5 @@ version: v0.2.3-rc4
 # It is recommended to use it with quotes.
 appVersion: "1.16.0"
 
-maintainers:
-  - name: iluvatar
+# maintainers:
+#   - name: iluvatar
