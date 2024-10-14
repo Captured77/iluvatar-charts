@@ -3,7 +3,7 @@ entries:
   confMap:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-14T09:32:53.215652555Z"
+    created: "2024-10-14T09:40:24.465426817Z"
     description: A Helm chart for Kubernetes
     digest: f64d78ff116701a8a57d48ed109e2dfe77bed1290d964aaded2d8e37294f821f
     name: confMap
@@ -14,14 +14,12 @@ entries:
   pcidevice-controller:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-14T09:32:53.21672905Z"
+    created: "2024-10-14T09:40:24.465976427Z"
     description: A Helm chart for Kubernetes
     digest: ab41b66c491d43876da756c2704c1bc3d3a0aba2419bb7d83f2e801744293d0d
-    maintainers:
-    - name: iluvatar
     name: pcidevice-controller
     type: application
     urls:
     - https://captured77.github.io/iluvatar-charts/pcidevice-controller-v0.2.3-rc4.tgz
     version: v0.2.3-rc4
-generated: "2024-10-14T09:32:53.214263128Z"
+generated: "2024-10-14T09:40:24.464693871Z"
