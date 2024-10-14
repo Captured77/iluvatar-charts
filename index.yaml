@@ -3,12 +3,12 @@ entries:
   confMap:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-14T08:35:14.194957563Z"
+    created: "2024-10-14T08:37:43.214712446Z"
     description: A Helm chart for Kubernetes
     digest: f64d78ff116701a8a57d48ed109e2dfe77bed1290d964aaded2d8e37294f821f
     name: confMap
     type: application
     urls:
-    - https://Captured77.github.io/luvatar-charts/confMap-0.1.0.tgz
+    - https://Captured77.github.io/iluvatar-charts/confMap-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-14T08:35:14.194057867Z"
+generated: "2024-10-14T08:37:43.21392639Z"
